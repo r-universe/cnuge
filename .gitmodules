@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "coil"]
-	path = coil
-	url = https://github.com/cran/coil
 [submodule "debar"]
 	path = debar
 	url = https://github.com/cnuge/debar
